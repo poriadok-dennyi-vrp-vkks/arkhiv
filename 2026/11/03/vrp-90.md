@@ -4,7 +4,7 @@
 |---|---|
 | **Орган** | Вища рада правосуддя |
 | **Дата засідання** | 03.11.2026 |
-| **Джерело** | [hcj.gov.ua](https://hcj.gov.ua/project/poryadok-dennyy-no-90-zasidannya-vyshchoyi-rady-pravosuddya-3-lystopada-2026-roku) · [оригінал .docx](https://hcj.gov.ua/sites/default/files/field/file/pd_rada_90_03-11-2026.docx) |
+| **Джерело** | [hcj.gov.ua](https://hcj.gov.ua/project/poryadok-dennyy-no-90-zasidannya-vyshchoyi-rady-pravosuddya-3-lystopada-2026-roku) · [оригінал .docx](https://hcj.gov.ua/sites/default/files/field/file/pd_rada_90_03-11-2026_0.docx) |
 
 ---
 
@@ -129,6 +129,10 @@
 **19\. Про погодження перерозподілу бюджетних видатків.**
 
 (Доповідач – член Вищої ради правосуддя Сасевич О.М.)
+
+**20\. Про надання консультативного висновку щодо законопроєктів № 13048,13048-1.**
+
+(Доповідач – член Вищої ради правосуддя Бокова Ю.В.)
 
 ---
 
